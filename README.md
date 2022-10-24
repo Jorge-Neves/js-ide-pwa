@@ -1,4 +1,5 @@
 # js-ide-pwa
+A Typescript react pwa that serves a pwa that is stored ocally on the public folder
 
 
 # Credit
