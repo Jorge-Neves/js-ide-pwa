@@ -1,6 +1,13 @@
 # js-ide-pwa
-A Typescript react pwa that serves a pwa that is stored ocally on the public folder
+A Typescript react pwa that serves a pwa that is stored locally on the public folder
 
+# Technologies
+
+TypeScript
+
+JavaScript
+
+JQuery
 
 # Credit
 Special thanks to Benjamin Chibuzor-Orie's awesome article
